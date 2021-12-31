@@ -6,7 +6,7 @@ import random
 #--------------TYPE YOUR TOKEN AND OTHER STUFF BELOW--------------#
 TOKEN = "" # your token
 
-channel_name = "animus" # default channel name
+channel_name = "sakura" # default channel name
 
 colour = 0xffb7c5 # default colour for embeds
 #-----------------------------------------------------------------#
