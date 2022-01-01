@@ -8,7 +8,7 @@
 
         <template>
 		<learn>standard/*</learn>
-		<learn>aiml-en-uk-plafferty-encyclopedia/*</learn>
+	    <!-- <learn>aiml-en-uk-plafferty-encyclopedia/*</learn> -->
             <!-- You can add more aiml files here -->
             <!--<learn>more_aiml.aiml</learn>-->
         </template>
