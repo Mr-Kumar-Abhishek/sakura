@@ -9,7 +9,6 @@
         <template>
 		<learn>standard/*</learn>
 		<learn>aiml-en-uk-plafferty-encyclopedia/*</learn>
-		<learn>aiml-en-us-foundation-alice.v1-6/*</learn>
             <!-- You can add more aiml files here -->
             <!--<learn>more_aiml.aiml</learn>-->
         </template>
