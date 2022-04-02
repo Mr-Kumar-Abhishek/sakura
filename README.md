@@ -5,7 +5,7 @@ An AIML Chat Bot for Discord made with Python
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/3nfQadt">
+    <a href="https://discord.gg/4VhGkaa4pu">
     <img src="https://img.shields.io/discord/264666918034604032.svg?color=%237289DA&label=Discord&style=popout-square" alt="Discord Server">
     </a>
     <a href="https://github.com/Rapptz/discord.py">
