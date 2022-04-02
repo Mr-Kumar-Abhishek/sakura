@@ -35,6 +35,12 @@ An AIML Chat Bot for Discord made with Python
 * Clone the repository
 `git clone https://github.com/Mr-Kumar-Abhishek/sakura.git`
 
+* Install Anaconda 
+Install anaconda from [here](https://www.anaconda.com/products/distribution)
+
+* Create a conda environment 
+`conda create -n sakura python=3.6 --channel free`
+
 * Install the requirements
 `pip install requirements.txt`
 
