@@ -1,4 +1,4 @@
-<h1 align = "center"> Animus </h1>
+<h1 align = "center"> Sakura</h1>
 
 <p align="center">
 An AIML Chat Bot for Discord made with Python
@@ -13,9 +13,9 @@ An AIML Chat Bot for Discord made with Python
     </a>
 </p>
 
-## Animus Invite link and support server
-* To invite Animus to your server : [Click Here](https://discordapp.com/api/oauth2/authorize?client_id=547321575993769984&permissions=392208&scope=bot)
-* Join the support server for a demo : [Click Here](https://discord.gg/3nfQadt)
+## Sakura Invite link and siupport server
+* To invite sakura to your server : [Click Here](https://discordapp.com/api/oauth2/authorize?client_id=926515646668365875&permissions=517544070208&scope=bot)
+* Join the support server for a demo : [Click Here](https://discord.gg/4VhGkaa4pu)
 
 ## Instructions to Host your own bot
 
@@ -33,15 +33,15 @@ An AIML Chat Bot for Discord made with Python
 ### Setting up the bot
 
 * Clone the repository
-`git clone https://github.com/Assassinumz/Animus.git`
+`git clone https://github.com/Mr-Kumar-Abhishek/sakura.git`
 
 * Install the requirements
 `pip install requirements.txt`
 
-* Open animus.py in any editor and paste your token in the provided space
+* Open sakura.py in any editor and paste your token in the provided space
 
 * Run your bot
-`python animus.py`
+`python sakura.py`
 
 ## Contact INFO
-If you have any questions ask me on [discord](https://discord.gg/3nfQadt)
+If you have any questions ask me on [discord](https://discord.gg/4VhGkaa4pu)
